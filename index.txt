@@ -1,3 +1,5 @@
 animals
 bird
 fish
+tree
+sky
